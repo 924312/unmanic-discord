@@ -14,6 +14,6 @@
         "on_worker_process": "1",
         "on_postprocessor_task_results": "99"
     },
-    "tags": "discord,wekbook,notification",
+    "tags": "discord,webhook,notification",
     "version": "1.0.0"
 }
